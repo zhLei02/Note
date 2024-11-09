@@ -2,6 +2,6 @@
 title: Welcome to my blog
 ---
 
-## try!!
+## Note for myself
 
-> 真的可以吗？
+> 学习ing ...
